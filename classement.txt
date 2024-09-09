@@ -1,0 +1,12 @@
+Ligue nationale de quelque chose
+Equipe    ;Matches;Victoire;Defaite;Nulle;Pour;Contre;Diff;Moyenne;Total
+9
+3;0;1
+1000;0;500
+6
+Montreal  ;25;20;5;123;120
+Toronto   ;28;17;5;170;100
+Quebec    ;30;10;10;200;120
+Boston    ;10;35;5;111;200
+New-York  ;30;11;9;180;140
+Vancouver ;9;39;2;118;222

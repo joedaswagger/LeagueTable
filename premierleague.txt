@@ -1,0 +1,27 @@
+Premier league
+Club           ;Parties;Gagnees;Nulles;Perdues;BP;BC;BD;Moy;Points
+8
+3;1;0
+1000;500;0
+20
+Leicester City ;4;3;4;16;18
+Wolves         ;5;1;5;11;12
+Burnley        ;1;5;5;11;17
+Watford        ;3;1;7;12;19
+Norwich City   ;1;2;8;5;26
+West Ham       ;7;2;2;23;13
+Liverpool      ;6;4;1;31;11
+Tottenham      ;5;1;5;9;16
+Aston Villa    ;3;1;7;14;20
+Chelsea        ;8;2;1;27;4
+Leeds United   ;2;5;4;11;18
+Southampton    ;3;5;3;10;12
+Newcastle      ;0;5;6;12;24
+Man City       ;7;2;2;22;6
+Crystal Palace ;3;6;2;15;14
+Everton        ;4;3;4;16;16
+Brighton       ;4;5;2;12;12
+Man United     ;5;2;4;19;17
+Brentford      ;3;3;5;13;14
+Arsenal        ;6;2;3;13;13
+
